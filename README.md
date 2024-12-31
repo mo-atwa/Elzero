@@ -1,3 +1,5 @@
 # Elzero
 elzero-template
-Link https://mo-atwa.github.io/Elzero/
+Demo Link: https://elzero-atwa.netlify.app/#articles
+
+GitHublink: https://mo-atwa.github.io/Elzero/
